@@ -1,2 +1,2 @@
 def connect_db():
-    print("Database connected")
+    print("Production Database")
